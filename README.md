@@ -1,2 +1,2 @@
 # proj-demo
-A Demo , Project for Git and Github
+A Demo , Project for Git and Github.
